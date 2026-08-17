@@ -1,0 +1,4 @@
+numpy>=1.20
+scipy>=1.7
+osqp>=0.6.2
+pygame>=2.0
